@@ -1,0 +1,34 @@
+@import url('https://googleapis.com');
+body {
+  font-family: 'Roboto', sans-serif;
+}
+nav{
+    text-align: center;
+    padding: 10px;
+}
+#Presentation{
+    text-align: center;
+    color: brown;
+}
+ul{
+    display: inline;
+    color: brown;
+    font-size: 50px;
+
+}
+#The_fits{
+       padding: 10px;
+       text-align: center;
+}
+.fits{
+    display: inline;
+    padding: 10px;
+}
+img{
+    height: 500px;
+    width: 30%;
+}
+#Footer{
+    text-align: center;
+    color: brown;
+}
